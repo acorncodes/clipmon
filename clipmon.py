@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import notification
+import dbus
 import clipboard_monitor
 import units
 
